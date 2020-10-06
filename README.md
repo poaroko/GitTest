@@ -1,7 +1,5 @@
 # GitTest
-Hello Git
-Hello From Local
-Hello From Feature1
+Hello All Collaborators
 Napat thieanpho 6080115117
 wanchaream sritalang 6080115127
 peeradet pitpongpan 6080115124
